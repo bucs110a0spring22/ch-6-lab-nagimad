@@ -22,4 +22,4 @@ Grace days remaining: 3/5
  lecture notes and the python library
 
 ## MISCELLANEOUS COMMENTS:
- i tried completing it but i do not think i fully understood this topic...
+RESUBMITTING
